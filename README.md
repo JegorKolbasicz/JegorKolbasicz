@@ -60,7 +60,10 @@ In approximately eight months, I will receive my engineering degree. Right now, 
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/jegor.ko.basicz/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>    
 </div>  
   
 
