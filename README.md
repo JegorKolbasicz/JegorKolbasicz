@@ -44,6 +44,10 @@ In approximately eight months, I will receive my engineering degree. Right now, 
 
 <br/>  
 
+## 📁 Projects
+- 🔧 [Project Name](link) — krótki opis (np. tech stack + cel projektu)
+- 🎮 [Game Name](link) — Unity, C#
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/JegorKolbasicz" target="_blank">
