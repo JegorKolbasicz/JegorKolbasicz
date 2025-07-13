@@ -45,8 +45,8 @@ In approximately eight months, I will receive my engineering degree. Right now, 
 <br/>  
 
 ## 📁 Projects
-- 🔧 [Project Name](link) — krótki opis (np. tech stack + cel projektu)
-- 🎮 [Game Name](link) — Unity, C#
+- 🔧 [ONNX ML Model Integration](https://github.com/JegorKolbasicz/IntegrationOfMLModelsWithEigen) — Integration of ML model trained in scikit-learn with Eigen framework.
+- 🎮 [Airplane Game](link) — Unity, C#
 
 ## Connect with me  
 <div align="center">
