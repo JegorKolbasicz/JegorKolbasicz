@@ -45,8 +45,10 @@ In approximately eight months, I will receive my engineering degree. Right now, 
 <br/>  
 
 ## 📁 Projects
-- 🔧 [ONNX ML Model Integration](https://github.com/JegorKolbasicz/IntegrationOfMLModelsWithEigen) — Integration of ML model trained in scikit-learn with Eigen framework.
-- 🎮 [Airplane Game](link) — Unity, C#
+- [ONNX ML Model Integration](https://github.com/JegorKolbasicz/IntegrationOfMLModelsWithEigen) — Integration of ML model trained in scikit-learn with Eigen framework with help of ONNX
+- [Airplane Game](https://github.com/JegorKolbasicz/AirplaneGameJava) — Simple game in Java
+- [Book Inventory](https://github.com/JegorKolbasicz/BookInventoryC) — Desktop application written in C for managin an inventory of books
+- [Car Registration System](https://github.com/JegorKolbasicz/CarRegistrationSystemCPP) — Console application written in C++ 
 
 ## Connect with me  
 <div align="center">
