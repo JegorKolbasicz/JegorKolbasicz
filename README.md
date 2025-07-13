@@ -56,3 +56,8 @@ In approximately eight months, I will receive my engineering degree. Right now, 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>      
 </div>  
+
+## 📊 GitHub Stats  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JegorKolbasicz&show_icons=true&theme=tokyonight" />
+</div>
